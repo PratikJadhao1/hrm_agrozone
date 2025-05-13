@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Node.js or Flutter build folders
+frontend/node_modules/
+hrm_frontend/build/
+
+# Environment files
+.env
